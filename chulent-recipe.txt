@@ -1,0 +1,9 @@
+Ingredients:
+ - beans
+ - lot of water
+ - spices
+
+Directions:
+  1. In a medium pot  add all ingredients .
+  2. Put on medium heat.
+  3. Don't touch until tomorrow.
